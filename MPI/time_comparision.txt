@@ -1,0 +1,14 @@
+in this file you can fin the comparision time execution for each program.
+
+Serial executioon fft program
+
+Init:10:34:45 AM
+End: 10:34:49 AM
+
+OpenMP execution fft program	
+Init: 10:38:09 AM
+End: 10:38:12 AM
+
+OpenMPI executioon fft program
+
+That took 2.066541 seconds, time calculated using MPI_Wtime();
